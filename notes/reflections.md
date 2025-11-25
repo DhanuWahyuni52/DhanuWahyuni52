@@ -4,3 +4,5 @@
 
 - Capture ideas quickly before they fade.
 
+- Keep reflections short and meaningful.
+
