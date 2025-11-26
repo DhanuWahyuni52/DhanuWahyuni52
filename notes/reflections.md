@@ -6,3 +6,5 @@
 
 - Keep reflections short and meaningful.
 
+- Revisit earlier observations for deeper interpretation.
+
