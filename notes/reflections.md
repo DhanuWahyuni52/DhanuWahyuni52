@@ -8,3 +8,5 @@
 
 - Revisit earlier observations for deeper interpretation.
 
+- Reflect on small changes to understand long-term direction.
+
