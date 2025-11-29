@@ -10,3 +10,5 @@
 
 - Reflect on small changes to understand long-term direction.
 
+- Review past notes to see patterns that repeat.
+
