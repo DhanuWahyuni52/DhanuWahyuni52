@@ -12,3 +12,5 @@
 
 - Review past notes to see patterns that repeat.
 
+- Avoid rushing conclusions before seeing the full picture.
+
