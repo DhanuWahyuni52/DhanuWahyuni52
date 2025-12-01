@@ -14,3 +14,5 @@
 
 - Avoid rushing conclusions before seeing the full picture.
 
+- Document lessons learned from unexpected outcomes.
+
