@@ -16,3 +16,5 @@
 
 - Document lessons learned from unexpected outcomes.
 
+- Focus on clarity when summarizing personal insights.
+
