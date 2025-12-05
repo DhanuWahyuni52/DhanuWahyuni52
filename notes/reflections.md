@@ -18,3 +18,5 @@
 
 - Focus on clarity when summarizing personal insights.
 
+- Keep reflections short and meaningful.
+
