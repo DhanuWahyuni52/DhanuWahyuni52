@@ -22,3 +22,8 @@
 
 - Revisit earlier observations for deeper interpretation.
 
+
+Repository to explore and share techniques for web scraping and data extraction, with a focus on practical applications and ethical considerations.
+
+Ideas for projects: scrape job postings from multiple platforms to analyze market trends, build a tool to track product prices across e-commerce sites.
+
