@@ -27,3 +27,7 @@ Repository to explore and share techniques for web scraping and data extraction,
 
 Ideas for projects: scrape job postings from multiple platforms to analyze market trends, build a tool to track product prices across e-commerce sites.
 
+
+Consider adding documentation for the project's setup and usage.
+Explore incorporating CI/CD pipelines for automated testing and deployment.
+
