@@ -31,3 +31,7 @@ Ideas for projects: scrape job postings from multiple platforms to analyze marke
 Consider adding documentation for the project's setup and usage.
 Explore incorporating CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Explore creating a README with project descriptions, setup instructions, and example usage.
+
