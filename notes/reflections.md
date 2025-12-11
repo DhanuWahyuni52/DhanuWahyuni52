@@ -35,3 +35,8 @@ Explore incorporating CI/CD pipelines for automated testing and deployment.
 Consider adding a CONTRIBUTING.md file to guide potential contributors.
 Explore creating a README with project descriptions, setup instructions, and example usage.
 
+
+Incorporate a `README.md` with clear project descriptions and setup instructions.
+
+Consider adding contribution guidelines for potential collaborators.
+
