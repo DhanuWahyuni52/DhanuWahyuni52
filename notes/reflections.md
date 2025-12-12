@@ -40,3 +40,7 @@ Incorporate a `README.md` with clear project descriptions and setup instructions
 
 Consider adding contribution guidelines for potential collaborators.
 
+
+Consider adding contributions or projects related to data science and machine learning.
+Explore opportunities for open-source collaboration in areas of interest.
+
