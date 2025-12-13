@@ -44,3 +44,7 @@ Consider adding contribution guidelines for potential collaborators.
 Consider adding contributions or projects related to data science and machine learning.
 Explore opportunities for open-source collaboration in areas of interest.
 
+
+Consider adding a contribution guide.
+Explore adding a README.md with project overview and setup instructions.
+
