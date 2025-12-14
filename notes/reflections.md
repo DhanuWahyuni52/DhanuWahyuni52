@@ -48,3 +48,7 @@ Explore opportunities for open-source collaboration in areas of interest.
 Consider adding a contribution guide.
 Explore adding a README.md with project overview and setup instructions.
 
+
+- Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+- Include a `LICENSE` file to specify the terms of use and distribution.
+
