@@ -60,3 +60,7 @@ Explore adding automated testing (e.g., unit tests, integration tests).
 Consider adding a README.md file to explain the purpose and usage of the repository.
 Explore adding a .gitignore file to exclude unnecessary files from version control.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential collaborators.
+*   Explore adding a `LICENSE` file to clarify usage and distribution terms.
+
