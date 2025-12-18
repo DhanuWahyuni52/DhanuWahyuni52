@@ -64,3 +64,7 @@ Explore adding a .gitignore file to exclude unnecessary files from version contr
 *   Consider adding a `CONTRIBUTING.md` file to guide potential collaborators.
 *   Explore adding a `LICENSE` file to clarify usage and distribution terms.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore a README structure that clearly separates introduction, setup, usage, and contribution sections.
+
