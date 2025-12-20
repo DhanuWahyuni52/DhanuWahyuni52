@@ -73,3 +73,8 @@ Incorporate robust error handling and logging mechanisms.
 
 Consider adding unit tests for critical functions and modules.
 
+
+Consider adding a README that explains the project's purpose and how to run it.
+
+Explore adding unit tests to ensure code reliability.
+
