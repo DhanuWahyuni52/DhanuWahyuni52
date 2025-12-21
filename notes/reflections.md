@@ -78,3 +78,8 @@ Consider adding a README that explains the project's purpose and how to run it.
 
 Explore adding unit tests to ensure code reliability.
 
+
+Consider adding a README.md file to explain the project's purpose, setup, and usage.
+
+Explore the use of Git tags for version control of significant project milestones.
+
