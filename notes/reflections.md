@@ -83,3 +83,7 @@ Consider adding a README.md file to explain the project's purpose, setup, and us
 
 Explore the use of Git tags for version control of significant project milestones.
 
+
+Consider adding a README.md file to explain the purpose and usage of the repository.
+Explore using GitHub Actions for continuous integration and deployment.
+
