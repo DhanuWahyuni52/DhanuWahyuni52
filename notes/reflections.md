@@ -90,3 +90,8 @@ Explore using GitHub Actions for continuous integration and deployment.
 
 This repo is a great starting point for showcasing personal projects. Consider adding a `README.md` with a project overview, technologies used, and installation instructions for each project.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline guidelines for potential contributors.
+
+Explore adding unit tests for key functionalities to ensure code stability and robustness.
+
