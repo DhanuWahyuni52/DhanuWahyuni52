@@ -95,3 +95,7 @@ Consider adding a `CONTRIBUTING.md` file to outline guidelines for potential con
 
 Explore adding unit tests for key functionalities to ensure code stability and robustness.
 
+
+Consider adding a contribution guide for new developers.
+Include a `CONTRIBUTING.md` file.
+
