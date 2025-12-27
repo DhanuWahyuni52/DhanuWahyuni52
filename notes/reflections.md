@@ -99,3 +99,7 @@ Explore adding unit tests for key functionalities to ensure code stability and r
 Consider adding a contribution guide for new developers.
 Include a `CONTRIBUTING.md` file.
 
+
+* Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+* Explore adding a .gitignore file for common development tools/languages.
+
