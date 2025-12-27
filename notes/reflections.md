@@ -103,3 +103,7 @@ Include a `CONTRIBUTING.md` file.
 * Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 * Explore adding a .gitignore file for common development tools/languages.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
+Include a `LICENSE` file to clarify usage and distribution rights.
+
