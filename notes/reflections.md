@@ -107,3 +107,7 @@ Include a `CONTRIBUTING.md` file.
 Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
 Include a `LICENSE` file to clarify usage and distribution rights.
 
+
+Consider adding a `.github/workflows` directory for CI/CD automation.
+Explore adding a `CODE_OF_CONDUCT.md` file to foster a positive community.
+
