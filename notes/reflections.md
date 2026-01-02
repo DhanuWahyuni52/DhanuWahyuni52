@@ -111,3 +111,7 @@ Include a `LICENSE` file to clarify usage and distribution rights.
 Consider adding a `.github/workflows` directory for CI/CD automation.
 Explore adding a `CODE_OF_CONDUCT.md` file to foster a positive community.
 
+
+* **Repository for personal projects, learning exercises, and contributions related to data science and Python development.**
+* **Showcases projects demonstrating skills in data analysis, machine learning, and web scraping.**
+
