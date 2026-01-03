@@ -120,3 +120,7 @@ A possible README structure could include sections for "Installation," "Usage," 
 
 Consider adding a `.gitignore` file to exclude common development artifacts like IDE configuration files and temporary build outputs.
 
+
+Consider adding a README.md file to clearly explain the purpose and usage of the repository.
+Explore the possibility of creating an example usage demonstration or a small project showcasing the functionality.
+
