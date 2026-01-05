@@ -127,3 +127,7 @@ Explore the possibility of creating an example usage demonstration or a small pr
 
 Potential for contributing to open-source projects related to data science or machine learning, perhaps focusing on Indonesian language processing.
 
+
+* Consider adding a README.md file to explain the purpose and usage of the repository.
+* Implement a `.gitignore` file to exclude unnecessary files (e.g., temporary files, build artifacts).
+
