@@ -124,3 +124,6 @@ Consider adding a `.gitignore` file to exclude common development artifacts like
 Consider adding a README.md file to clearly explain the purpose and usage of the repository.
 Explore the possibility of creating an example usage demonstration or a small project showcasing the functionality.
 
+
+Potential for contributing to open-source projects related to data science or machine learning, perhaps focusing on Indonesian language processing.
+
