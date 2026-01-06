@@ -131,3 +131,7 @@ Potential for contributing to open-source projects related to data science or ma
 * Consider adding a README.md file to explain the purpose and usage of the repository.
 * Implement a `.gitignore` file to exclude unnecessary files (e.g., temporary files, build artifacts).
 
+
+* Consider adding a `README.md` with a project overview and setup instructions.
+* Explore implementing a CI/CD pipeline for automated testing and deployment.
+
