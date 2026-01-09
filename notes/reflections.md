@@ -141,3 +141,8 @@ This repo seems to focus on Android development. Consider adding:
 *   Clear README files for each project detailing its purpose, setup, and usage.
 *   Examples of common Android patterns like MVVM, dependency injection, or data persistence.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore options for user authentication and authorization if the repo is intended for a web application.
+
