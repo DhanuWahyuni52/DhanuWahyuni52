@@ -146,3 +146,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore options for user authentication and authorization if the repo is intended for a web application.
 
+
+Consider adding a section on common performance optimizations for the libraries/frameworks used.
+Document any specific setup or dependency requirements beyond the standard installation.
+
