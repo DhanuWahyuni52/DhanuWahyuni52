@@ -154,3 +154,8 @@ Document any specific setup or dependency requirements beyond the standard insta
 Consider adding a README with project descriptions and setup instructions.
 Explore opportunities for open-source contributions or collaborations.
 
+
+Consider adding a README.md file to explain the project's purpose, setup, and usage.
+
+Explore adding unit tests to ensure code robustness and prevent regressions.
+
