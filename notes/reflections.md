@@ -163,3 +163,7 @@ Explore adding unit tests to ensure code robustness and prevent regressions.
 * **Focus on data visualization best practices:** Ensure charts are clearly labeled, use appropriate color palettes, and tell a story with the data.
 * **Consider adding a README with a project overview and setup instructions:** This will help new users understand the purpose and how to run the code.
 
+
+*   Consider adding a README.md explaining the project's purpose and how to use it.
+*   Explore using CI/CD pipelines for automated testing and deployment.
+
