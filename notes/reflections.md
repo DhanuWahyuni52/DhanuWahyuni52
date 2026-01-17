@@ -167,3 +167,7 @@ Explore adding unit tests to ensure code robustness and prevent regressions.
 *   Consider adding a README.md explaining the project's purpose and how to use it.
 *   Explore using CI/CD pipelines for automated testing and deployment.
 
+
+- Explore incorporating a CONTRIBUTING.md file to guide potential contributors.
+- Consider adding a `.gitignore` file to exclude unnecessary files from version control.
+
