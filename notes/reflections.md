@@ -171,3 +171,7 @@ Explore adding unit tests to ensure code robustness and prevent regressions.
 - Explore incorporating a CONTRIBUTING.md file to guide potential contributors.
 - Consider adding a `.gitignore` file to exclude unnecessary files from version control.
 
+
+Consider adding a README.md with project descriptions, installation instructions, and usage examples.
+Explore implementing CI/CD pipelines for automated testing and deployment.
+
