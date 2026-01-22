@@ -175,3 +175,7 @@ Explore adding unit tests to ensure code robustness and prevent regressions.
 Consider adding a README.md with project descriptions, installation instructions, and usage examples.
 Explore implementing CI/CD pipelines for automated testing and deployment.
 
+
+- Consider adding a README.md file to provide a project overview, setup instructions, and usage examples.
+- Implement unit tests to ensure code quality and prevent regressions.
+
