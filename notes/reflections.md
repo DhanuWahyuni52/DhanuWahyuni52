@@ -179,3 +179,7 @@ Explore implementing CI/CD pipelines for automated testing and deployment.
 - Consider adding a README.md file to provide a project overview, setup instructions, and usage examples.
 - Implement unit tests to ensure code quality and prevent regressions.
 
+
+*   Consider adding a `.gitignore` file to exclude common development artifacts.
+*   Document the project setup and dependencies to ease onboarding for new contributors.
+
