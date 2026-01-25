@@ -183,3 +183,7 @@ Explore implementing CI/CD pipelines for automated testing and deployment.
 *   Consider adding a `.gitignore` file to exclude common development artifacts.
 *   Document the project setup and dependencies to ease onboarding for new contributors.
 
+
+Could explore adding documentation for specific project setup or contribution guidelines.
+Consider adding a `CONTRIBUTING.md` file to outline how others can contribute to the project.
+
