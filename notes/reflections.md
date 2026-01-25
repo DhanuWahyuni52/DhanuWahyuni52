@@ -187,3 +187,7 @@ Explore implementing CI/CD pipelines for automated testing and deployment.
 Could explore adding documentation for specific project setup or contribution guidelines.
 Consider adding a `CONTRIBUTING.md` file to outline how others can contribute to the project.
 
+
+1.  Consider adding badges for project status, tests, or code coverage.
+2.  Explore adding a GitHub Actions workflow for automated testing or deployment.
+
