@@ -191,3 +191,7 @@ Consider adding a `CONTRIBUTING.md` file to outline how others can contribute to
 1.  Consider adding badges for project status, tests, or code coverage.
 2.  Explore adding a GitHub Actions workflow for automated testing or deployment.
 
+
+*   Consider adding a contribution guide to encourage community involvement.
+*   Explore adding automated testing for core functionalities.
+
