@@ -195,3 +195,8 @@ Consider adding a `CONTRIBUTING.md` file to outline how others can contribute to
 *   Consider adding a contribution guide to encourage community involvement.
 *   Explore adding automated testing for core functionalities.
 
+
+This repo seems to be a personal portfolio or showcase of work.
+
+Potential addition: A "Projects" or "Portfolio" section with clear descriptions, technologies used, and links to live demos or source code.
+
